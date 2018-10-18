@@ -1,0 +1,17 @@
+Instalar as dependencias 
+
+npm install 
+
+instalar o knex global
+
+npm i knex -g
+
+instalar o postgres
+
+sudo apt-get install postgres postgres-contrib
+
+sudo su - postgres
+
+psql 
+
+CREATE DATABASE knowledge;
